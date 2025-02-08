@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .custom-rainbow-border-image {
+        border-image-source: url(../../assets/images/button-gradient.png);
+        border-image-slice: 10;
+        border-image-width: 100px;
+    }
+
+    .custom-rainbow-gradient {
+        background-image: linear-gradient(
+            to right,
+            #DEC880 0%,
+            #FFFFFF 17%,
+            #FF3980 57%,
+            #FF347D 57%,
+            #827DED 100%
+        );
+    }
+
+    .pause {
+        animation-play-state: paused;
+    }
+}
+
+/* emojipedia
+unicode-table.com
+npm i -D prettier-plugin-tailwindcss */

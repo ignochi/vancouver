@@ -1,0 +1,23 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="15" cy="15" r="12" fill="url(#paint0_angular_7_331)"/>
+<g filter="url(#filter0_bf_7_331)">
+<circle cx="15" cy="15" r="10" fill="white" fill-opacity="0.03"/>
+</g>
+<path d="M20.3334 11L13 18.3333L9.66669 15" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_bf_7_331" x="0" y="0" width="30" height="30" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="2.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7_331"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_7_331" result="shape"/>
+<feGaussianBlur stdDeviation="2.5" result="effect2_foregroundBlur_7_331"/>
+</filter>
+<radialGradient id="paint0_angular_7_331" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(15 14.6571) scale(12 12.3429)">
+<stop stop-color="#827DED"/>
+<stop offset="0.21875" stop-color="#DEC880"/>
+<stop offset="0.46875" stop-color="#CEA892"/>
+<stop offset="0.760417" stop-color="#FF347D"/>
+<stop offset="1" stop-color="#827DED"/>
+</radialGradient>
+</defs>
+</svg>
